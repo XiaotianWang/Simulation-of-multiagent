@@ -1,6 +1,8 @@
 # Simulation-of-multiagent
 This a student work : )
 
+By Matlab.
+
 The file **net.m** is the main program.
 
 **Laplacian_matrix.d** is a function to compute the value of Laplacian matrix.
